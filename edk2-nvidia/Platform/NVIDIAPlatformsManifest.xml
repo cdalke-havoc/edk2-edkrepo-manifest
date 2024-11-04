@@ -29,7 +29,7 @@
 
   <RemoteList>
     <!-- The 'name' attribute for each Remote tag must be unique. -->
-    <Remote name="Edk2Repo">https://github.com/NVIDIA/edk2.git</Remote>
+    <Remote name="Edk2Repo">https://github.com/cdalke-havoc/edk2.git</Remote>
     <Remote name="Edk2PlatformsRepo">https://github.com/NVIDIA/edk2-platforms.git</Remote>
     <Remote name="Edk2InfineonRepo">https://github.com/NVIDIA/edk2-infineon.git</Remote>
     <Remote name="Edk2RedfishClientRepo">https://github.com/NVIDIA/edk2-redfish-client.git</Remote>
